@@ -5,6 +5,5 @@
 - 📫 How to reach me ...
 
 <!---
-T4ncowny/T4ncowny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ 这个存储库是一个测试 repository because its `README.md`
 --->
